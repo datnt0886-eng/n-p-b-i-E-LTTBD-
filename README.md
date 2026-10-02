@@ -1,1 +1,5 @@
-# n-p-b-i-E-LTTBD-
+# Bài tập tuần 1 - Lập trình di động
+## Câu 1: Mong muốn và định hướng
+Sau khi học xong môn Lập trình di động, em mong muốn có thể tự xây dựng một ứng dụng mobile hoàn chỉnh, từ thiết kế giao diện, xử lý sự kiện đến quản lý dữ liệu và kết nối API. Em muốn nắm chắc các kiến thức nền tảng để có thể tiếp tục phát triển các ứng dụng thực tế và sử dụng kiến thức này cho các đồ án sau này. Định hướng của em là có khả năng phát triển ứng dụng mobile và kết hợp với kiến thức Backend để xây dựng một hệ thống hoàn chỉnh.
+## Câu 2: Lập trình di động trong 10 năm tới
+Theo em, trong 10 năm tới lập trình di động vẫn tiếp tục phát triển mạnh. Điện thoại thông minh hiện nay được sử dụng trong rất nhiều lĩnh vực như thương mại điện tử, ngân hàng, giáo dục, y tế, giải trí và mạng xã hội. Trong tương lai, các công nghệ như AI, IoT, AR/VR và thiết bị thông minh sẽ ngày càng được tích hợp với ứng dụng di động. Vì vậy nhu cầu phát triển và bảo trì ứng dụng mobile vẫn sẽ tồn tại, mặc dù công cụ và cách lập trình có thể thay đổi.
