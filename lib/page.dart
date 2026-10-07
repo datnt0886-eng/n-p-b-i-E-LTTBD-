@@ -133,7 +133,7 @@ class ProfilePage extends StatelessWidget {
 
                 // Nội dung phía dưới
                 const Text(
-                  'Mong muốn và định hướng của Bạn là gì\n'
+                  'Mong muốn và định hướng của.Bạn là gì\n'
                   'sau khi học xong môn học là gì?',
                   textAlign: TextAlign.center,
                   style: TextStyle(
