@@ -135,3 +135,6 @@ AI có thể tạo nội dung dựa trên dữ liệu đã học, nhưng con ng�
 Theo em, AI không làm cho việc học trở nên không cần thiết mà làm thay đổi mục tiêu của việc học.
 
 Trong tương lai, việc chỉ ghi nhớ kiến thức sẽ ít quan trọng hơn. Thay vào đó, người học cần biết cách đặt câu hỏi, giải quyết vấn đề, sử dụng AI, kiểm chứng thông tin và tạo ra sản phẩm thực tế.
+
+BÀI TẬP TUẦN 4 
+link figma: https://www.figma.com/design/ZHJg6Zmh4ams3tpR2OMQCz/Untitled?node-id=20-26&t=4J8sU7gn5aOo5eE8-1
